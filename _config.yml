@@ -1,4 +1,8 @@
 #config
 theme: jekyll-theme-dinky
 title: [Daisy W. Song]
+SEOTitle: Daisy_WSong
 description: [ありがとうございます〜]
+email: wensong@umich.com
+sidebar: true
+sidebar-about-description: [yes or yes~]
