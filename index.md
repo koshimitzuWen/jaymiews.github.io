@@ -4,16 +4,15 @@ layout: default
 
 
 
-# **Wenjia Song (Daisy)**
+# **About Wenjia(Daisy)**
 
 
 Welcome.
 
-_This is Wenjia. 你好！Ciao! Hallo!_
+I am a Master's student in International and Regional Studies at the University of Michigan, Ann Arbor.
 
 
 ## Education
-
 
 BA in English Literature and Linguistics, Tsinghua University, 2015 - 2019
 
