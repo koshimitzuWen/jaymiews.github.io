@@ -11,6 +11,8 @@ Welcome.
 
 I am a Master's student in International and Regional Studies at the University of Michigan, Ann Arbor.
 
+你好。
+
 
 ## Education
 
@@ -118,7 +120,7 @@ end
 
 ### Small image
 
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+![zpt](/ZEPETO_CAPTURE 1.png)
 
 ### Large image
 
