@@ -23,7 +23,7 @@ MA in International and Regional Studies, University of Michigan, Ann Arbor, 201
 
 ## Publication
 
-[Discursive Power Dynamics and Identity Construction: Case Studies of Conversations in Beijing Vegetable Markets](./https://umichanthrojournaldotcom.files.wordpress.com/2019/12/crossroads-volume-3.1-fall-2019-1.pdf). _CROSSROADS: The University of Michigan Undergraduate Journal of Anthropology,_ 2019.11.
+[Discursive Power Dynamics and Identity Construction: Case Studies of Conversations in Beijing Vegetable Markets](https://umichanthrojournaldotcom.files.wordpress.com/2019/12/crossroads-volume-3.1-fall-2019-1.pdf). _CROSSROADS: The University of Michigan Undergraduate Journal of Anthropology,_ 2019.11.
 
 
 
