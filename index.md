@@ -20,14 +20,14 @@ Please download my **cv** here.
 
 ## Education
 
-BA in English Literature and Linguistics, Tsinghua University, Beijing, 2015 - 2019
+[BA in English Literature and Linguistics](http://www.dfll.tsinghua.edu.cn/publish/dfll/10969/2017/20170623135451680384429/20170623135451680384429_.html), Tsinghua University, Beijing, 2015 - 2019
 
 MA in International and Regional Studies, University of Michigan, Ann Arbor, 2019 - 2021
 
 
 ## Publication
 
-[Discursive Power Dynamics and Identity Construction: Case Studies of Conversations in Beijing Vegetable Markets](https://umichanthrojournaldotcom.files.wordpress.com/2019/12/crossroads-volume-3.1-fall-2019-1.pdf). _CROSSROADS: The University of Michigan Undergraduate Journal of Anthropology,_ 2019.11.
+[Discursive Power Dynamics and Identity Construction: Case Studies of Conversations in Beijing Vegetable Markets](https://umichanthrojournaldotcom.files.wordpress.com/2019/12/crossroads-volume-3.1-fall-2019-1.pdf). [_CROSSROADS_](https://umichanthrojournal.com/) : _The University of Michigan Undergraduate Journal of Anthropology,_ 2019.11.
 
 
 ## This is Me
