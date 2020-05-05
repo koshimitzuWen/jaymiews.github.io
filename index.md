@@ -15,7 +15,7 @@ I am a Master's student in International and Regional Studies at the University 
 
 Please download my **cv** here.
 
-请在**此处**下载我的个人简历
+请在 **此处** 下载我的个人简历
 
 
 ## Education
