@@ -22,13 +22,13 @@ Please download my **cv** here.
 
 **[BA in English Literature and Linguistics](http://www.dfll.tsinghua.edu.cn/publish/dfll/10969/2017/20170623135451680384429/20170623135451680384429_.html), Tsinghua University, Beijing, 2015 - 2019**
 
-    GPA 3.85/4.00, Magna Cum Laude
+*   GPA 3.85/4.00, Magna Cum Laude
 
 **MA in International and Regional Studies, University of Michigan, Ann Arbor, 2019 - 2021**
   
-    GPA 4.00/4.00
+*   GPA 4.00/4.00
 
-    Lieberthal-Rogel Academic Year Award Winner (full-tuition waiver) AY19-20, AY20-21
+*   Lieberthal-Rogel Academic Year Award Winner (full-tuition waiver) AY19-20, AY20-21
 
 
 ## Publication
