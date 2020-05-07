@@ -29,7 +29,6 @@ Please download my **cv** here.
 **MA in International and Regional Studies, University of Michigan, Ann Arbor, 2019 - 2021**
   
 *   GPA 4.00/4.00
-
 *   Lieberthal-Rogel Academic Year Award Winner (full-tuition waiver) AY19-20, AY20-21
 
 
