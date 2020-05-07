@@ -20,7 +20,7 @@ Please download my **cv** here.
 
 ## Education
 
-**[BA in English Literature and Linguistics], Tsinghua University, Beijing, 2015 - 2019**
+**BA in English Literature and Linguistics, Tsinghua University, Beijing, 2015 - 2019**
 
 *   GPA 3.85/4.00, Magna Cum Laude
 *   xuetang talents program - [World Literature and Culture Class](http://www.dfll.tsinghua.edu.cn/publish/dfll/10969/2017/20170623135451680384429/20170623135451680384429_.html) (full-tuition waiver)
