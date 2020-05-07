@@ -4,7 +4,7 @@ layout: default
 
 
 
-# **About Wenjia(Daisy)**
+# **About Wenjia(Jaymie)**
 
 
 Welcome.
