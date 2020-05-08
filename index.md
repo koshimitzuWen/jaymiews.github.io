@@ -11,11 +11,7 @@ Welcome.
 
 I am a Master's student in International and Regional Studies at the University of Michigan, Ann Arbor.
 
-我的研究方向是：政治传播
-
-Please download my **cv** here.
-
-请在 **此处** 下载我的个人简历
+Please download my **cv** here.  请在 **此处** 下载我的个人简历。
 
 
 ## Education
@@ -36,6 +32,10 @@ Please download my **cv** here.
 
 [Discursive Power Dynamics and Identity Construction: Case Studies of Conversations in Beijing Vegetable Markets](https://umichanthrojournaldotcom.files.wordpress.com/2019/12/crossroads-volume-3.1-fall-2019-1.pdf). [_CROSSROADS_](https://umichanthrojournal.com/) : _The University of Michigan Undergraduate Journal of Anthropology,_ 2019.11.
 
+Scholarly Translation of Joshua Cherniss _A Mind and its A Mind and its Time: The Development of Isaiah Berlin's Political Thought_, Yilin Publishing House, Beijing, _under publishing_ 
+
+
+<!--
 
 ## This is Me
 
@@ -44,9 +44,8 @@ Please download my **cv** here.
 
 
 
-<!--
 
-<!-- <!-- Text can be **bold**, _italic_, or ~~strikethrough~~.
+Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
 
