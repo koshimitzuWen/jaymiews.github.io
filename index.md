@@ -14,7 +14,7 @@ I am a Master's student in International and Regional Studies at the University 
 Please download my **cv** here.  请在 **此处** 下载我的个人简历。
 
 
-## Education
+## **Education**
 
 **BA in English Literature and Linguistics, Tsinghua University, Beijing, 2015 - 2019**
 
@@ -28,7 +28,7 @@ Please download my **cv** here.  请在 **此处** 下载我的个人简历。
 *   Lieberthal-Rogel Academic Year Award Winner (full-tuition waiver) AY19-20, AY20-21
 
 
-## Publication
+## **Publication**
 
 [Discursive Power Dynamics and Identity Construction: Case Studies of Conversations in Beijing Vegetable Markets](https://umichanthrojournaldotcom.files.wordpress.com/2019/12/crossroads-volume-3.1-fall-2019-1.pdf). [_CROSSROADS_](https://umichanthrojournal.com/) : _The University of Michigan Undergraduate Journal of Anthropology,_ 2019.11.
 
