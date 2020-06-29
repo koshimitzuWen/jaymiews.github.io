@@ -11,7 +11,7 @@ Welcome.
 
 I am a Master's student in International and Regional Studies at the University of Michigan, Ann Arbor.
 
-Please download my [**cv**](/0628_cv.pdf) here.
+Please download my [**cv**](/WS_June2020.pdf) here.
 
 
 ## **Education**
