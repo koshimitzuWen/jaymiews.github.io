@@ -4,7 +4,7 @@ layout: default
 
 
 
-# **About Wenjia(Jaymie)**
+# **About Wenjia(Jaymie) Song**
 
 
 Welcome.
