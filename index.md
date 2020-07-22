@@ -9,9 +9,9 @@ layout: default
 
 Welcome.
 
-I am a Master's student in International and Regional Studies at the University of Michigan, Ann Arbor.
+I am a rising second-year Master's student in International and Regional Studies at the University of Michigan, Ann Arbor.
 
-Please download my [**cv**](/Song_cv_0718.pdf) here.
+Please download my [**cv**](/SONG_cv_0721.pdf) here.
 
 
 ## **Education**
